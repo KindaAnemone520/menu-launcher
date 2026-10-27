@@ -11,7 +11,6 @@ Prywatny projekt hobbystyczny.
 - Installs the Fabric loader and mods the user chooses.
 - Signs the player in with the official Microsoft device-code OAuth flow
   (Microsoft -> Xbox Live -> XSTS -> Minecraft services).
-- Has a local offline-account option for singleplayer testing.
 
 ## What it does not do
 - It does not store Microsoft passwords.
